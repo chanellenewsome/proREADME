@@ -571,6 +571,7 @@
   },
   "description": "This is a walkthrough of how to create a professional readme.md file",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -583,10 +584,5 @@
   "bugs": {
     "url": "https://github.com/chanellenewsome/proreadme/issues"
   },
-  "homepage": "https://github.com/chanellenewsome/proreadme#readme",
-  "dependencies": {
-    "inquirer": "^8.2.1",
-    "modules": "^0.4.0",
-    "node": "^17.5.0"
-  }
+  "homepage": "https://github.com/chanellenewsome/proreadme#readme"
 }
